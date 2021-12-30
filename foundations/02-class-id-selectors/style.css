@@ -1,0 +1,19 @@
+.odd {
+  background-color: #ffb6c1;
+  font-family: verdan, sans-serif;
+}
+
+#secondelement {
+  color: blue;
+  font-size: 36px;
+}
+
+.odd:nth-of-type(2) {
+  font-size: 24px;
+}
+
+#fourthelement {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
